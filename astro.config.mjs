@@ -6,6 +6,6 @@ import { defineConfig } from 'astro/config';
 
 
 export default defineConfig({
-  site: 'https://astronaut.github.io',
-  base: 'my-repo',
+  site: 'https://isaac2910.github.io',
+  base: 'portfolio',
 })
