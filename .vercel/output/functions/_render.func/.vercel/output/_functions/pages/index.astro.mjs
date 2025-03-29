@@ -1,6 +1,6 @@
 import { c as createComponent, r as renderTemplate, m as maybeRenderHead, d as createAstro, b as renderComponent } from '../chunks/astro/server_B_qvK0Dt.mjs';
 import 'kleur/colors';
-import { g as getCollection } from '../chunks/_astro_content_Bhqlh5LH.mjs';
+import { g as getCollection } from '../chunks/_astro_content_BPB5mE9X.mjs';
 import { $ as $$BaseLayout, a as $$Hero, b as $$Icon } from '../chunks/BaseLayout_BKCB65rH.mjs';
 import { a as $$CallToAction, $ as $$ContactCTA } from '../chunks/ContactCTA_C_j8Vi0B.mjs';
 import { $ as $$Grid, a as $$PortfolioPreview } from '../chunks/Grid_CpH44Rxy.mjs';
